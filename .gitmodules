@@ -1,0 +1,7 @@
+[submodule "morganscybershed/themes/hugo-bearblog"]
+	path = morganscybershed/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "morganscybershed/public"]
+	path = morganscybershed/public
+	url = https://github.com/mgreen01/morgangreen.github.io.git
+	branch = main
